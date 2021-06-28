@@ -1,7 +1,52 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WikipediaExtractor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Templates" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{
+	"templates": [
+		{
+			"name": "Template 1",
+			"description": "Template description 1.",
+			"fields": [
+                		{
+					"name": "Field 1.1",
+					"description": "Field description 1.1.",
+					"type": "Generic",
+					"xPath": "//div",
+					"innerText": ""
+				},
+				{
+					"name": "Field 1.2",
+					"description": "Field description 1.2.",
+					"type": "2",
+					"xPath": "//tr",
+					"innerText": ""
+				}
+			]
+		},
+		{
+			"name": "Template 2",
+			"description": "Template description 2.",
+			"fields": [
+                		{
+					"name": "Field 2.1",
+					"description": "Field description 2.1.",
+					"type": "1",
+					"xPath": "//a",
+					"innerText": ""
+				},
+				{
+					"name": "Field 2.2",
+					"description": "Field description 2.2.",
+					"type": "2",
+					"xPath": "//th",
+					"innerText": ""
+				}
+			]
+		}
+	]
+}</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

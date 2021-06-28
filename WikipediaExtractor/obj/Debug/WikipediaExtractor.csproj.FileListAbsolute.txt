@@ -1,0 +1,13 @@
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\bin\Debug\WikipediaExtractor.exe.config
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\bin\Debug\WikipediaExtractor.exe
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\bin\Debug\WikipediaExtractor.pdb
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\obj\Debug\WikipediaExtractor.FormTemplateManager.resources
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\obj\Debug\WikipediaExtractor.Properties.Resources.resources
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\obj\Debug\WikipediaExtractor.csproj.GenerateResource.cache
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\obj\Debug\WikipediaExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\obj\Debug\WikipediaExtractor.csproj.CopyComplete
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\obj\Debug\WikipediaExtractor.exe
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\obj\Debug\WikipediaExtractor.pdb
+C:\Users\Kris\Documents\Git\WikipediaExtractor\WikipediaExtractor\obj\Debug\WikipediaExtractor.csproj.AssemblyReference.cache

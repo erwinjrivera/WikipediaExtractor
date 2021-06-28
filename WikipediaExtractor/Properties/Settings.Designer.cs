@@ -8,21 +8,73 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-namespace WikipediaExtractor.Properties
-{
+namespace WikipediaExtractor.Properties {
+    
+    
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
-    {
-
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.10.0.0")]
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
-
-        public static Settings Default
-        {
-            get
-            {
+        
+        public static Settings Default {
+            get {
                 return defaultInstance;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute(@"{
+	""templates"": [
+		{
+			""name"": ""Template 1"",
+			""description"": ""Template description 1."",
+			""fields"": [
+                		{
+					""name"": ""Field 1.1"",
+					""description"": ""Field description 1.1."",
+					""type"": ""Generic"",
+					""xPath"": ""//div"",
+					""innerText"": """"
+				},
+				{
+					""name"": ""Field 1.2"",
+					""description"": ""Field description 1.2."",
+					""type"": ""2"",
+					""xPath"": ""//tr"",
+					""innerText"": """"
+				}
+			]
+		},
+		{
+			""name"": ""Template 2"",
+			""description"": ""Template description 2."",
+			""fields"": [
+                		{
+					""name"": ""Field 2.1"",
+					""description"": ""Field description 2.1."",
+					""type"": ""1"",
+					""xPath"": ""//a"",
+					""innerText"": """"
+				},
+				{
+					""name"": ""Field 2.2"",
+					""description"": ""Field description 2.2."",
+					""type"": ""2"",
+					""xPath"": ""//th"",
+					""innerText"": """"
+				}
+			]
+		}
+	]
+}")]
+        public string Templates {
+            get {
+                return ((string)(this["Templates"]));
+            }
+            set {
+                this["Templates"] = value;
             }
         }
     }
